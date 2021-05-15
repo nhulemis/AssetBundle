@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2263947283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: defaec7c652c718e7322e0b5158ee041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db9dc10e0ae8f3410cb133c891431f00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/New Scene/ReflectionProbe-0.exr
+- Assets/Prefabs/Cube.prefab
+Dependencies: []
